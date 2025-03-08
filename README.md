@@ -136,7 +136,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math-base/ops/imul`][@stdlib/math/base/ops/imul]</span><span class="delimiter">: </span><span class="description">perform C-like multiplication of two signed 32-bit integers.</span>
+-   <span class="package-name">[`@stdlib/number-int32/base/mul`][@stdlib/number/int32/base/mul]</span><span class="delimiter">: </span><span class="description">perform C-like multiplication of two signed 32-bit integers.</span>
 
 </section>
 
@@ -216,7 +216,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/math/base/ops/imul]: https://github.com/stdlib-js/math-base-ops-imul
+[@stdlib/number/int32/base/mul]: https://github.com/stdlib-js/number-int32-base-mul
 
 <!-- </related-links> -->
 

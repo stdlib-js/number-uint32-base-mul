@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-uint32-base-mul/tags). For example,
+
+```javascript
 import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@v0.0.0-esm/index.mjs';
 ```
 
@@ -93,7 +98,7 @@ v = mul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer ov
 
 var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform' ).factory;
 import UINT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@esm/index.mjs';
-import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@v0.0.0-esm/index.mjs';
+import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@esm/index.mjs';
 
 var randi;
 var a;

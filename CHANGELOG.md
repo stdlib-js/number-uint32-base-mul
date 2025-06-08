@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5572fe5`](https://github.com/stdlib-js/stdlib/commit/5572fe564738f6def14cb6e1d8c0c39358f805a5) - **chore:** add notes and clean-up _(by Athan Reines)_
 -   [`2540748`](https://github.com/stdlib-js/stdlib/commit/2540748e5850b4f7e8268904faeec1f2e9cb7bfd) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - **feat:** add `number/uint32/base/mul` _(by Gururaj Gurram)_
 
@@ -35,8 +36,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>

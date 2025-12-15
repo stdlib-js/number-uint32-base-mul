@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-02)
+## Unreleased (2025-12-15)
 
 <section class="features">
 
@@ -35,6 +35,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`82f9d54`](https://github.com/stdlib-js/stdlib/commit/82f9d5484c3beda739ac298abd28983b6cc9750d) - **bench:** refactor to use string interpolation in `number/uint32/base/mul` [(#8944)](https://github.com/stdlib-js/stdlib/pull/8944) _(by Krishna Awasthi)_
 -   [`f920adc`](https://github.com/stdlib-js/stdlib/commit/f920adcf8021ad52af5d9725573a67717e7a67a1) - **chore:** fix C lint errors [(#8180)](https://github.com/stdlib-js/stdlib/pull/8180) _(by Navyansh Kesarwani, Athan Reines)_
 -   [`64bb2ec`](https://github.com/stdlib-js/stdlib/commit/64bb2ec054f33f324751b4c54c06ac1dbc66186c) - **bench:** fix types in C benchmarks [(#7864)](https://github.com/stdlib-js/stdlib/pull/7864) _(by Gunj Joshi)_
 -   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
@@ -53,11 +54,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
 -   Gururaj Gurram
+-   Krishna Awasthi
 -   Navyansh Kesarwani
 
 </section>

@@ -50,6 +50,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+mul = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-uint32-base-mul/tags). For example,
+
+```javascript
 mul = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@v0.1.0-umd/browser.js' )
 ```
 
@@ -62,7 +67,7 @@ var mul = require( 'path/to/vendor/umd/number-uint32-base-mul/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@v0.1.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -115,7 +120,7 @@ v = mul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer ov
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@v0.1.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 

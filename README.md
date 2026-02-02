@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@esm/index.mjs';
+import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@v0.1.1-esm/index.mjs';
 ```
 
 #### mul( x, y )
@@ -93,7 +93,7 @@ v = mul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer ov
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@esm/index.mjs';
+import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-mul@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'uint32'

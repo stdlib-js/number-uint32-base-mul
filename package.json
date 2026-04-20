@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "@stdlib/math-base-napi-binary": "^0.3.3",
+    "@stdlib/number-int32-base-mul": "^0.0.1",
     "@stdlib/utils-library-manifest": "^0.2.4"
   },
   "devDependencies": {

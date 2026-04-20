@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-20)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`194227f`](https://github.com/stdlib-js/stdlib/commit/194227f60e97728545523685bd16c1deb79da0f1) - **refactor:** update `number/uint32/base/mul` to utilize `number/int32/base/mul` [(#11502)](https://github.com/stdlib-js/stdlib/pull/11502) _(by Abdul Kaium)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Abdul Kaium
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-02)
